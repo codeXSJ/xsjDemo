@@ -17,7 +17,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.title = @"功能模块 ";
+    self.title = @"功能模块";
     [self initUI];
     // Do any additional setup after loading the view.
 }
